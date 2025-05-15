@@ -4,7 +4,7 @@ Welcome to my SQL project collection featuring real-world case studies, datasets
 
 ---
 
-## 🥣 Cereals Dataset with Problem Statement
+## [🥣 Cereals Dataset with Problem Statement](https://github.com/Sumanth376/SQL-Projects/tree/main/Cereals%20Dataset%20with%20Problem%20Statemant)
 
 **Objective:** Analyze the nutritional content of different breakfast cereals and generate insights for product positioning.
 
@@ -15,7 +15,7 @@ Welcome to my SQL project collection featuring real-world case studies, datasets
 
 ---
 
-## 🏥 Clinical Data Set with Problem Statement
+## [🏥 Clinical Data Set with Problem Statement](https://github.com/Sumanth376/SQL-Projects/tree/main/Clinitrical%20Data%20set%20with%20problem%20statement)
 
 **Objective:** Conduct patient analysis using clinical records to derive operational and health-related metrics.
 
@@ -26,7 +26,7 @@ Welcome to my SQL project collection featuring real-world case studies, datasets
 
 ---
 
-## 🍽️ Danny’s Diner Case Study with Questions & Answers
+## [🍽️ Danny’s Diner Case Study with Questions & Answers](https://github.com/Sumanth376/SQL-Projects/tree/main/Dannys%20Dinner%20Case%20Study%20with%20Question%20and%20Answe)
 
 **Objective:** Answer business questions from a fictional Japanese diner using transactional sales data.
 
@@ -37,7 +37,7 @@ Welcome to my SQL project collection featuring real-world case studies, datasets
 
 ---
 
-## 💼 Insurance Dataset with Problem Statement
+## [💼 Insurance Dataset with Problem Statement](https://github.com/Sumanth376/SQL-Projects/tree/main/Insurance%20Dataset%20with%20problem%20statement)
 
 **Objective:** Perform insurance customer analysis using demographic and financial information.
 
@@ -48,7 +48,7 @@ Welcome to my SQL project collection featuring real-world case studies, datasets
 
 ---
 
-## 🎬 Movie Dataset with Problem Statement
+## [🎬 Movie Dataset with Problem Statement](https://github.com/Sumanth376/SQL-Projects/tree/main/Movie%20Dataset%20with%20problem%20statement)
 
 **Objective:** Perform movie industry analysis using data on actors, directors, genres, and ratings.
 
@@ -59,7 +59,7 @@ Welcome to my SQL project collection featuring real-world case studies, datasets
 
 ---
 
-## 🏢 Organization Dataset with Problem Statement
+## [🏢 Organization Dataset with Problem Statement](https://github.com/Sumanth376/SQL-Projects/tree/main/Organisation%20Data%20set%20With%20Problem%20statement)
 
 **Objective:** Analyze employee and department data for HR and organizational strategy.
 
@@ -70,7 +70,7 @@ Welcome to my SQL project collection featuring real-world case studies, datasets
 
 ---
 
-## 🍕 Pizza Runner with Problem Statement
+## [🍕 Pizza Runner with Problem Statement](https://github.com/Sumanth376/SQL-Projects/tree/main/Pizza%20runner%20with%20problem%20statement)
 
 **Objective:** Complete a case study based on a fictional pizza delivery business.
 
@@ -91,7 +91,7 @@ Welcome to my SQL project collection featuring real-world case studies, datasets
 ---
 
 📁 **Each project folder contains**:
-- 📄 Problem Statement
-- 🧠 Structured SQL Questions
-- ✅ SQL Query Solutions
+- 📄 Problem Statement  
+- 🧠 Structured SQL Questions  
+- ✅ SQL Query Solutions  
 - 📊 Business Insight Summary (if applicable)
