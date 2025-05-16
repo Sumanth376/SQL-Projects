@@ -1,37 +1,27 @@
-# 🥣 Cereal Dataset SQL Project – Nutritional Insights & Querying
+# 🥣 SQL Project: Cereal Dataset Analysis
 
-This project uses SQL to explore and analyze a real-world dataset containing the nutritional content and branding details of various cereal products. The goal is to derive meaningful insights about cereal health values, popularity, and distribution patterns through structured queries and transformations.
-
----
-
-## 🎯 Objective
-
-- Build and modify a structured SQL database for cereal data
-- Perform descriptive analytics using SQL queries
-- Segment cereals into categories (e.g., high/low calorie)
-- Derive business and nutritional insights
-- Practice core SQL concepts like views, subqueries, CTEs, and data categorization
+This SQL project demonstrates data analysis on a nutritional cereal dataset using MySQL. The project involves table manipulation, data transformation, filtering, aggregations, views, subqueries, and categorization techniques — all designed to extract meaningful insights from breakfast cereal product data.
 
 ---
 
-## 🧾 Dataset Description
+## 📁 Dataset Overview
 
-The dataset consists of **77 cereal products** and the following attributes:
+The dataset `cereals_data.csv` contains nutritional information for 77 different cereals. Each record includes:
 
-| Feature         | Description                                        |
-|----------------|----------------------------------------------------|
-| `name`          | Name of the cereal product                         |
-| `mfr`           | Manufacturer (e.g., K = Kellogg's, G = General Mills) |
-| `type`          | Type of cereal: C = Cold, H = Hot                  |
-| `calories`      | Calories per serving                               |
-| `protein`       | Protein grams per serving                          |
-| `sodium`        | Sodium in mg                                       |
-| `fiber`         | Fiber grams                                        |
-| `carbo`         | Carbohydrates in grams                             |
-| `sugars`        | Sugars in grams                                    |
-| `potass`        | Potassium in mg                                    |
-| `vitamins`      | Vitamin enrichment (%)                             |
-| `shelf`         | Display shelf number (1 = bottom, 3 = top)         |
-| `weight`        | Weight of serving in oz                            |
-| `cups`          | Cups per serving                                   |
-| `rating`        | Consumer rating (scaled value)                     |
+- **Basic Info**: `name`, `mfr` (manufacturer), `type` (Hot/Cold)
+- **Nutrition**: `calories`, `protein`, `fat`, `sodium`, `fiber`, `carbo`, `sugars`, `potass`, `vitamins`
+- **Packaging**: `shelf`, `weight`, `cups`
+- **Consumer Rating**: `rating`
+
+---
+
+## 🧠 SQL Tasks Performed
+
+### 🔧 Database Setup & Schema Management
+
+- Created database `CEREALS_DB` and used `CEREALS_DATA` table.
+- Added a `PRIMARY_KEY` using `AUTO_INCREMENT`.
+- Described the schema structure using `DESCRIBE`.
+
+```sql
+ALTER TABLE CEREALS_DATA ADD COLUMN PRIMARY_KEY INT PRIMARY KEY AUTO_INCREMENT;
